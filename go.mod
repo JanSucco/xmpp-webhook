@@ -1,4 +1,4 @@
-module github.com/tmsmr/xmpp-webhook
+module github.com/JanSucco/xmpp-webhook
 
 require (
 	golang.org/x/tools v0.21.0 // indirect
